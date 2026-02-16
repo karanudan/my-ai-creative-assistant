@@ -1,6 +1,4 @@
-/my-ai-creative-assistant
-  ├── public/
-  ├── src/
-  │   ├── App.js
-  │   ├── App.css
-  ├── package.json
+"scripts": {
+  "start": "react-scripts start",
+  "build": "react-scripts build"
+}
